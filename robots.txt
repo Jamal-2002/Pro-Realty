@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /documents/
+
+Sitemap: https://jamal-2002.github.io/Pro-Realty/sitemap.xml
