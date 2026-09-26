@@ -2,4 +2,4 @@ User-Agent: *
 Allow: /
 Disallow: /documents/
 
-Sitemap: http://localhost:3000/sitemap.xml
+Sitemap: https://jamal-2002.github.io/Pro-Realty/sitemap.xml
